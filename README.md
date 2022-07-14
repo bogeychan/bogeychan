@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  
+<img src="https://raw.githubusercontent.com/bogeychan/bogeychan/main/assets/0.gif"></img>
+
+</p>
